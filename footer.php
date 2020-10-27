@@ -51,6 +51,7 @@
 
     </div>
   </footer>
+  <!-- direct search -->
 
 <?php wp_footer(); ?>
 </body>
