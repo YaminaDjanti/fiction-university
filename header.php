@@ -7,7 +7,7 @@
 
   </head>
   <body <?php body_class(); ?>>
-
+<!-- 
   <div class="search-overlay">
     <div class="search-overlay__top">
       <div class="container">
@@ -17,6 +17,10 @@
       </div>
     </div>
   </div>
+
+  <div class="container">
+    <div id="search-overlay__results"></div>
+  </div> -->
 
     <header class="site-header">
     <div class="container">
